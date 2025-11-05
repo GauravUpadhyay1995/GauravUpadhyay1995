@@ -35,7 +35,14 @@ Passionate about clean UI, efficient backend, and smooth deployment 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravUpadhyay1995&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
+---
+
+# 📈 Top Contributed Repositories
+
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=GauravUpadhyay1995&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/GauravUpadhyay1995)
+
+---
+
 
 
 # 🏆 GitHub Trophies:
