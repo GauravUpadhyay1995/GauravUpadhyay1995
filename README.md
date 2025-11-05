@@ -2,16 +2,16 @@
 I am a **dedicated and efficient Software Developer** with **4+ years of experience** in building **Web and Mobile Applications**.  
 Passionate about clean UI, efficient backend, and smooth deployment 🚀  
 
-🌍 From: Ghaziabad, India  
+🌍 From: Varanasi, India  
 💼 Working at: True Business Minds  
-💬 Ask me about: React, Next.js, Node.js, MongoDB, Express.js  
+💬 Ask me about: React, Next.js, Node.js, MongoDB, Express.js, PHP  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gaurav-upadhyay312)
 
 ---
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-upadhyay312)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/g_a_u_r_a_v_u_p_a_d_h_y_a_y/)
 
 ---
 
@@ -26,6 +26,7 @@ Passionate about clean UI, efficient backend, and smooth deployment 🚀
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Core PHP](https://img.shields.io/badge/Core%20PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -35,14 +36,11 @@ Passionate about clean UI, efficient backend, and smooth deployment 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravUpadhyay1995&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
----
 
 # 📈 Top Contributed Repositories
-
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=GauravUpadhyay1995&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/GauravUpadhyay1995)
 
 ---
 
 # 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=GauravUpadhyay1995&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
